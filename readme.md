@@ -1,6 +1,8 @@
 # Projeto de chat
 
-## Stack
+## O que foi feito?
+Foi desenvolvido um chat em realtime, utilizando um mono repositório com a Stack abaixo.
+### Stack
   - Dart no Backend
   - Socket.io para comunicação em tempo real entre as plataformas
   - Flutter no Mobile
