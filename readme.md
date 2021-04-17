@@ -12,6 +12,6 @@
   - [x] [EXTRA] Adicionei uma scrollbar para mostrar onde estou nas mensagens
 
 ### Caminhos
-  - [https://github.com/MateusHBR/chat/tree/main/common](#common)
-  - [https://github.com/MateusHBR/chat/tree/main/flutter_chat_app](#flutter_app)
-  - [https://github.com/MateusHBR/chat/tree/main/server](#server)
+  - [common](https://github.com/MateusHBR/chat/tree/main/common)
+  - [flutter_app](https://github.com/MateusHBR/chat/tree/main/flutter_chat_app)
+  - [server](https://github.com/MateusHBR/chat/tree/main/server)
